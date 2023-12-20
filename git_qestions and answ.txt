@@ -1,3 +1,5 @@
+git intervewe qestions
+-----------------------
 1).What Is Git and Why Is It Used?
 
 a).Git is an open-distributed version control system that allows developers to track changes to their codebase and collaborate on projects with other developers. Git is typically used for software development, but it can be used for any type of file.
